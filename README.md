@@ -1,2 +1,2 @@
-# new_banking_system
+# Bank-Marketing-System
 Machine Learning Coursework
